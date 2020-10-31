@@ -1,4 +1,2 @@
 # chicken-ryaba
-
-
-Lalaladdsd
+blala
